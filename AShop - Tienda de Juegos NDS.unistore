@@ -76,8 +76,8 @@
                 "console": ["Nintendo DS"],
                 "icon_index": 0,
                 "sheet_index": 0,
-                "version": "Rev.3",
-                "license": "gpl-3.0",
+                "version": "Rev.4",
+                "license": "AShop-Official-License",
                 "last_updated": "2020-07-02 at 14:03 (UTC)"
             },
             "Gracias por usar AShop <3": [
@@ -101,7 +101,7 @@
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 3,
+        "revision": 4,
         "version": 3
     }
 }
