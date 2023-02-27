@@ -100,14 +100,14 @@
                 "icon_index": 0,
                 "sheet_index": 0,
                 "version": "0",
-                "license": "test
-                "last_updated": "2023-02-27at 15:19(UTC)"
+                "license": "test",
+                "last_updated": "2023-02-27 at 15:19(UTC)"
             },
             "TEST": [
                 {
                     "file": "https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20(Decrypted)/Mario%20&%20Luigi%20-%20Bowser%27s%20Inside%20Story%20(Europe)%20(En,Fr,De,Es,It).zip",
-                    "message": "TEST 1"
-                    "output": "",
+                    "message": "TEST 1",
+                    "output": "sdmc:/mario.zip",
                     "type": "downloadFile"
                 }
             ]
@@ -124,7 +124,7 @@
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 5,
+        "revision": 6,
         "version": 3
     }
 }
