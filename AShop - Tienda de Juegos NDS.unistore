@@ -110,6 +110,15 @@
                     "output": "sdmc:/mario.zip",
                     "type": "downloadFile"
                 }
+                ],
+
+            "TEST 2": [
+                {
+                    "file": "https://drive.google.com/uc?export=download&id=14hwa5I56H-SkVBV6kJovU8l-Vq3I0j79",
+                    "message": "Downloading TEST...",
+                    "output": "sdmc:/MARIO.nds",
+                    "type": "downloadFile"
+                }
             ]
         }
         
@@ -124,7 +133,7 @@
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 6,
+        "revision": 7,
         "version": 3
     }
 }
