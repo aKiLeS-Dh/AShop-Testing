@@ -114,7 +114,7 @@
 
             "TEST 2": [
                 {
-                    "file": "https://drive.google.com/uc?export=download&id=14hwa5I56H-SkVBV6kJovU8l-Vq3I0j79",
+                    "file": "https://archive.org/download/mario-luigi-bowsers-inside-story-europe-en-fr-de-es-it_20230227/Mario%20%26%20Luigi%20-%20Bowser%27s%20Inside%20Story%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.nds",
                     "message": "Downloading TEST...",
                     "output": "sdmc:/MARIO.nds",
                     "type": "downloadFile"
@@ -133,7 +133,7 @@
         "sheet": "spritesheet.t3x",
         "bg_index": 1,
         "bg_sheet": 0,
-        "revision": 7,
+        "revision": 8,
         "version": 3
     }
 }
